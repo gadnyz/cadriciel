@@ -44,7 +44,7 @@
       <div class="social-links d-none d-md-flex align-items-center">
         <!-- <a href="#" class="twitter"><i class="bi bi-twitter"></i></a> -->
         <a href="https://web.facebook.com/ServiceCadriciel/" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="youtube"><i class="bi bi-youtube"></i></a>
+        <a href="https://youtu.be/9oY25whe6VY" class="youtube"><i class="bi bi-youtube"></i></a>
         <!-- <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a> -->
       </div>
     </div>
@@ -107,7 +107,7 @@
           <p>Nous offrons des solutions technologiques de pointe pour aider nos clients à progresser. Avec notre produit Motiko, nous simplifions la gestion des phases électriques pour améliorer votre quotidien.</p>
           <div class="d-flex justify-content-center justify-content-lg-start ">
             <!-- <a href="#about" class="btn-get-started">Get Started</a> -->
-            <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox btn btn-primary btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Decouvrir Motiko</span></a>
+            <a href="https://youtu.be/9oY25whe6VY" class="glightbox btn btn-primary btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Decouvrir Motiko</span></a>
           </div>
         </div>
         <!-- <div class="col-lg-6 order-1 order-lg-2">
@@ -163,14 +163,22 @@
         <div class="row gy-4">
           <div class="col-lg-6">
             <!-- <h3>Voluptatem dignissimos provident quasi corporis</h3> -->
-            <img src="assets/img/back2.jpg" class="img-fluid rounded-4 mb-4" alt="">
+            <!-- <img src="assets/img/back2.jpg" class="img-fluid rounded-4 mb-4" alt=""> -->
+            <div id="call-to-action" class="call-to-action">
+              <div class="container text-center" data-aos="zoom-out">
+                <a href="https://youtu.be/9oY25whe6VY" class="glightbox play-btn"></a>
+                <p class="simple">Simplifiez-vous la vie grâce à la gestion automatique des phases électriques.</p>
+                <!-- <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
+                <!-- <a class="cta-btn" href="#">Call To Action</a> -->
+              </div>
+            </div>
             <!-- <p>Ut fugiat ut sunt quia veniam. Voluptate perferendis perspiciatis quod nisi et. Placeat debitis quia recusandae odit et consequatur voluptatem. Dignissimos pariatur consectetur fugiat voluptas ea.</p> -->
             <!-- <p>Temporibus nihil enim deserunt sed ea. Provident sit expedita aut cupiditate nihil vitae quo officia vel. Blanditiis eligendi possimus et in cum. Quidem eos ut sint rem veniam qui. Ut ut repellendus nobis tempore doloribus debitis explicabo similique sit. Accusantium sed ut omnis beatae neque deleniti repellendus.</p> -->
           </div>
           <div class="col-lg-6">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
-              Simplifiez-vous la vie grâce à la gestion automatique des phases électriques. Motiko est un sélecteur automatique de changement des phases qui assure une alimentation électrique continue et fiable.
+              Motiko est un sélecteur automatique de changement des phases qui assure une alimentation électrique continue et fiable.
               </p>
 
               <ul>
@@ -244,13 +252,11 @@
     <!-- ======= Call To Action Section ======= -->
     <!-- <section id="call-to-action" class="call-to-action">
       <div class="container text-center" data-aos="zoom-out">
-        <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
-        <h3>Call To Action</h3>
-        <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <a class="cta-btn" href="#">Call To Action</a>
+        <a href="https://youtu.be/9oY25whe6VY" class="glightbox play-btn"></a>
+        <h3>Decrouvrir le produit Motiko</h3>
       </div>
     </section> -->
-    <!-- End Call To Action Section -->
+   <!-- End Call To Action Section -->
 
     <!-- ======= Our Services Section ======= -->
     <!-- <section id="services" class="services sections-bg">
