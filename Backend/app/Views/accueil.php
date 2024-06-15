@@ -103,7 +103,7 @@
       <div class="row gy-5" data-aos="fade-in">
       
         <div class="col-lg-8 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-lg-start">
-          <h2>Faire un pas avec  nous !</h2>
+          <h2><span>Faire un pas</span> avec  nous !</h2>
           <p>Nous offrons des solutions technologiques de pointe pour aider nos clients à progresser. Avec notre produit Motiko, nous simplifions la gestion des phases électriques pour améliorer votre quotidien.</p>
           <div class="d-flex justify-content-center justify-content-lg-start ">
             <!-- <a href="#about" class="btn-get-started">Get Started</a> -->

@@ -1887,6 +1887,10 @@ section {
     background-color: rgba(248, 247, 216, 0.7);
 }
 
+.hero span{
+  font-weight: 100;
+}
+
 @media (min-width: 1365px) {
   .hero {
     background-attachment: fixed;
