@@ -484,7 +484,7 @@
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <a href="assets/img/portfolio/app-1.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt=""></a>
+                <a href="assets/img/portfolio/app-1.webp" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt=""></a>
                 <!-- <div class="portfolio-info">
                   <h4><a href="portfolio-details.html" title="More Details">App 1</a></h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
@@ -495,7 +495,7 @@
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <a href="assets/img/portfolio/app-2.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt=""></a>
+                <a href="assets/img/portfolio/app-2.webp" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt=""></a>
                 <!-- <div class="portfolio-info">
                   <h4><a href="portfolio-details.html" title="More Details">App 2</a></h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
@@ -506,7 +506,7 @@
 
             <div class="col-xl-4 col-md-6 portfolio-item filter-app">
               <div class="portfolio-wrap">
-                <a href="assets/img/portfolio/app-3.jpg" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt=""></a>
+                <a href="assets/img/portfolio/app-3.webp" data-gallery="portfolio-gallery-app" class="glightbox"><img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt=""></a>
                 <!-- <div class="portfolio-info">
                   <h4><a href="portfolio-details.html" title="More Details">App 3</a></h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
